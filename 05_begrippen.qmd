@@ -1,0 +1,70 @@
+# Begrippen
+
+Het onderzoek en de beschrijving van dakkappen -- en grote houtconstructies in het algemeen -- maakt gebruik van een eigen jargon. In de onderstaande woordenlijst zijn de meest courante begrippen die bij de beschrijving van een dakkap aan bod komen en ook de afzonderlijke onderdelen van dakkappen opgenomen en beschreven. De definities van deze begrippen zijn vrij gebaseerd op het woordenboek van bouwkundige termen van E.J. Haslinghuis[^begrippen-1]. Deze begrippen komen herhaaldelijk terug in het tweede deel van dit onderzoeksrapport: de catalogus van kappen in Brugge en ommeland.
+
+[^begrippen-1]: Haslinghuis 2005^5^.
+
+**Blokkeel**: horizontaal houten element aan de voet van een gespan dat dient als basis voor daksporen en standzonen. Doorgaans liggen blokkelen dwars op de muurplaat.
+
+**Fliering**: balk in de lengterichting van een dakkap die dient als steun voor de sporen of kepers. Flieringen bevinden zich tussen de kapvoet en de nok en worden doorgaans gedragen door schaargebinten. Flieringen liggen vlak op de schaargebinten, in tegenstelling tot gordingen die gekanteld, volgens de helling van het dak, liggen.
+
+**Gording**: lange balk, georiënteerd volgens de lenterichting van een dakkap, die dient als steun voor de sporen of kepers. Gordingen zijn gekanteld volgens de dakhelling; twee zijden van de gording zijn dus evenwijdig aan het dakvlak. Omwille van de gekantelde positie is een gording doorgaans ingelaten in de onderliggende kapdelen.
+
+**Gespan (spant)**: samenstel van twee daksporen met eventueel bijhorende trekbalken, hanenbalken, standzonen, korbelen en blokkelen.
+
+**Halfhouts**: houtverbinding waarbij van twee elkaar ontmoetende delen de halve dikte wordt weggenomen zodat ze, op elkaar bevestigd, samen de volle dikte van één van de onderdelen hebben.
+
+**Hanenbalk**: horizontaal gerichte balk die fungeert als verbinding tussen twee daksporen die tegenover elkaar staan. Naargelang de breedte van de overdekte benedenruimte bevatten gespannen één of meerdere hanenbalken.
+
+**Hanenbalkfliering**: lange balk, georiënteerd volgens de lengterichting van een dakkap, die dient als centrale steun voor de hanenbalken.
+
+**Inkaveling**: uitsparing of inkeping in een stuk bouwhout waarin de aansluiting of verbinding met een aansluitend stuk bouwhout wordt verzekerd.
+
+**Inteugel**: in het houtskelet van een driebeukige ruimte zijn inteugels de horizontale balken tussen de standvinken van de middenbeuk en de stijlen of de muren die de buitenwand van de constructie vormen. Inteugels staan dus dwars op de lengteas van het gebouw.
+
+**Keper**: balk die de hellende zijde van een kap vormt maar, in tegenstelling tot een spoor, niet de volledige opstand van de kapvoet tot de nok beslaat. Als balken met een beperkte lengte zijn kepers doorgaans ingelaten op of bevestigd aan flieringen of gordingen.
+
+**Korbeel**: rechte of gekromde schoor tussen een horizontaal en een verticaal of schuinstaand onderdeel van een houtconstructie. Korbelen bevinden zich bijvoorbeeld tussen sporen en hanenbalken of tussen de spantbenen en dekbalken van schaargebinten.
+
+**Makelaar**: middenstijl van een gespan, die reikt tot in de nok.
+
+**Moerbalk**: balk waarin kortere balkstukken zijn opgelegd of ingelaten. Komt bijvoorbeeld voor als een balk die, als deel van een balklaag, een binnenruimte overspant en waarin kleinere kinderbalken zijn ingelaten.
+
+**Muurplaat**: eerder platte balk, overlangs op een buitenmuur gelegd, waarop de gespannen rusten.
+
+**Nokgording**: lange balk, georiënteerd volgens de lengterichting van een dakkap, aangebracht in de top van de gespannen ter versteviging van de nok. De nokgording rust doorgaans op schoren en stijlen die op een hanenbalk staan.
+
+**Schaargebint**: samenstel (gebint) van twee dragende stijlen of spantbenen, die recht of krom (kromstijlen) kunnen zijn, en waarop een overspannende dekbalk rust. Schaargebinten dienen als dragers voor flieringen en gordingen.
+
+**Schoor**: schuin oplopend stuk hout, aangebracht ter ondersteuning van een verticaal gericht stuk bouwhout.
+
+**Spoor (spar, dakspoor)**: lange houten balk, (gedeeltelijk) rond of rechthoekig van doorsnede, die van de dakvoet tot de nok loopt. Een spoor draagt door middel van latten of dakbeschot de dakbedekking. Twee daksporen tegenover elkaar vormen steeds een paar en zijn vaak verbonden door één of meer hanenbalken.
+
+**Sporenpaar**: samenstel van twee daksporen (als onderdeel van een gespan). Sporenparen staan onderling doorgaans op een gelijke afstand, die kan variëren van 30 cm tot meer dan één meter. Dit zorgt voor een gelijkmatige verdeling van de horizontale en verticale krachten op de muur(plaat).
+
+**Standvink**: stijl op de middenas van een ruimte, bijvoorbeeld de centrale steun van de moerbalk van een balklaag of, in een dakkap, de steun van een hanenbalkfliering. Een standvink is vaak voorzien van schoren die de bovenliggende balk bijkomend ondersteunen.
+
+**Standzoon**: verticale stijl aan de voet van een kap, ter ondersteuning van een spoor of spantbeen.
+
+**Telmerk**: getrokken of gebeiteld merk op onderdelen van een houtconstructie dat een getal of volgorde aangeeft. Voor een uitgebreide bespreking van de verschillende types zie Janse & Devliegher 1962, Janse 1989 en Hoffsummer 2009.
+
+**Trekbalk**: balk aan de voet van een gespan, vaak met een grote sectie, liggend bovenop de muren van de overkapte benedenruimte.
+
+**Vlotmerk (eigendomsmerk, handelsmerk)**: teken dat in bouwhout werd gesneden om na verkoop de nieuwe eigenaar aan te geven.
+
+**Vlotgat**: opening in een stuk bouwhout dat gerelateerd is aan het samenstellen van een houtvlot. Doorheen deze openingen werden wissen of touw gehaald om ruwe stammen aan elkaar te binden tot een vlot dat daarna langs een waterweg naar een houtmarkt werd getransporteerd. In vlotgaten zijn soms nog restanten van touw of houten pluggen terug te vinden.
+
+**Voetraveling (raveelbalk, voetraveelbalk)**: balk die aan weerszijden van een kap, volgens de lengterichting van het gebouw, tussen twee opeenvolgende trekbalken is aangebracht en die als steun fungeert voor de standzonen van de gespannen. De tot blokkelen ingekorte trekbalken van de gespannen worden eveneens in de raveelbalk opgevangen.
+
+**Wankant**: de overgang tussen hout en bast. Dit komt overeen met de zone waar het cambium te vinden is. Naar de binnenzijde toe grenst het aan de meest recent gevormde groeiring. Te herkennen als een gladde, afgeronde zijde op een vierkant beslagen of gezaagd stuk bouwhout.
+
+**Windlat**: schuin oplopende plank of lat die verbonden of opgenageld is aan een opeenvolgende reeks van daksporen, om verzakking van van de dakstructuur tegen te gaan.
+
+**Windschoor**: schuin oplopend stuk hout, in de lengterichting van de kapconstructie aangebracht tussen een spantbeen en een fliering of gording. Daarmee wordt de stevigheid van de kap in die richting verzekerd en de winddruk opgenomen.
+
+
+::: {#fig-5-1}
+![](./figuren/image8.png)
+
+Verschillende types van vlotverbindingen. Bovenaan en driehoekige uitsparing en tapgat schuin doorheen de hoek van een gekantrecht stuk bouwhout. Op de rechter foto is nog een stuk van de tap aanwezig. Onderaan stukken bouwhout met een doorgezaagde vlotverbinding van een ander type waarin (links) nog een houten tap aanwezig is. (© Onroerend Erfgoed \| K. Vandevorst)
+:::

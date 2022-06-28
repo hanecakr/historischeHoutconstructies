@@ -1,0 +1,60 @@
+project:
+  type: book
+  output-dir: docs
+
+execute:
+  echo: false
+
+book:
+  title: "Middeleeuwse dakkappen in Brugge en ommeland. Een catalogus"
+  author: 
+    - Kristof Haneca [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-7719-8305) 
+    - Vincent Debonne [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-4536-146X)
+  description: | 
+    Online catalogus van historische houtconstructies uit Vlaanderen".
+  date: 28/06/2022
+  cover-image: figuren/cover.png
+  collapse-level: 1
+  sharing: [twitter, facebook, linkedin]
+  repo-url: https://github.com/hanecakr/historischeHoutconstructies/
+  repo-actions: [edit]
+  # google-analytics:
+  #  tracking-id: "G-WFNTWBH9Q4"
+  chapters: 
+    - index.qmd
+    - part: "ONDERZOEK EN SYNTHESE"
+      chapters:
+      # - updates.qmd
+      - 01_inleiding.qmd
+      - 02_werkwijze.qmd
+      - 03_typologie.qmd
+      - 04_hout.qmd
+      - 05_begrippen.qmd
+    - part: "CATALOGUS"
+      chapters:
+      - 06_sporenkappen_zonder_langsverbinding.qmd
+      - 07_sporenkappen_met_langsverbinding.qmd
+      - 08_sporenkappen_flieringen.qmd
+      - 09_sporenkappen_flieringen_makelaars.qmd
+      - 10_sporenkappen_flieringen_dubbelschaar.qmd
+      - 11_gordingenkappen.qmd
+      - 12_onzekereTypologie.qmd
+    - part: "LITERATUUR"
+      chapters:
+      - 13_bibliografie.qmd
+
+crossref:
+  fig-title: Figuur
+  fig-prefix: Fig.
+  
+language:
+  toc-title-document: "Op deze pagina"
+  search-no-results-text: "Geen resultaat"
+  repo-action-links-edit: "Bewerk deze pagina"
+
+format:
+  html:
+    theme: yeti
+    cover-image: figuren/cover.png
+    toc-depth: 4
+
