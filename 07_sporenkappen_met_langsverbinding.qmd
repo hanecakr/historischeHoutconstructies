@@ -36,11 +36,11 @@ Dakkap van de zuidelijke ziekenzaal van het Sint-Janshospitaal. De hanenbalkflie
 
 ### Onze-Lieve-Vrouwekerk, schip
 
-Waarschijnlijk bij de bouw van het nieuwe gotische koor werden in de bestaande sporenkap met twee hanenbalken van het schip makelaars op de trekbalken geplaatst[^sporenkappen_met_langsverbinding-5] (zie fig. 11: B en 6.2.1.2). De makelaars zijn halfhouts verbonden met de hanenbalken en de nok van de sporenparen. De hanenbalkflieringen tussen de makelaars en de schoren tussen de makelaars en de hanenbalkflieringen zijn met een pen-en-gat verbinding vastgezet.
+Waarschijnlijk bij de bouw van het nieuwe gotische koor werden in de bestaande sporenkap met twee hanenbalken van het schip makelaars op de trekbalken geplaatst[^sporenkappen_met_langsverbinding-5] (zie @fig-6-6: B en 6.2.1.2). De makelaars zijn halfhouts verbonden met de hanenbalken en de nok van de sporenparen. De hanenbalkflieringen tussen de makelaars en de schoren tussen de makelaars en de hanenbalkflieringen zijn met een pen-en-gat verbinding vastgezet.
 
 [^sporenkappen_met_langsverbinding-5]: Van Eenhooge 2009, 27, 31. De Onze-Lieve-Vrouwekerk in de inventaris van het bouwkundig erfgoed: <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/82359>.
 
-Tijdens deze verbouwing werd een tijdelijke afsluitwand opgericht waarbij de twee laatste (oostelijke) sporenparen werden aangepast (fig. 11: C). De plaats van de verdwenen beplanking van deze wand wordt aangeduid door een smalle inkeping aan weerszijden van de makelaar. Verder waren de planken genageld op de daksporen, de hanenbalken en op vijf verdwenen horizontale balken die doorheen de makelaar waren gestoken en met een halfhoutse verbinding in de daksporen waren vastgemaakt.
+Tijdens deze verbouwing werd een tijdelijke afsluitwand opgericht waarbij de twee laatste (oostelijke) sporenparen werden aangepast (@fig-6-6: C). De plaats van de verdwenen beplanking van deze wand wordt aangeduid door een smalle inkeping aan weerszijden van de makelaar. Verder waren de planken genageld op de daksporen, de hanenbalken en op vijf verdwenen horizontale balken die doorheen de makelaar waren gestoken en met een halfhoutse verbinding in de daksporen waren vastgemaakt.
 
 ::: {#fig-7-3}
 ![](./figuren/image51.jpeg)
@@ -54,7 +54,7 @@ Zoals vermeld (zie 6.5.2) kunnen in de 37 meter lange bekapping boven het koor o
 
 [^sporenkappen_met_langsverbinding-6]: Van Eenhooge 2009, 31-33.
 
-Het westelijke deel telt 33 sporenparen (telmerken van west naar oost) en omvat zelf eveneens twee delen. In beide delen hebben de daksporen een doorsnede van 18-20 op 20 cm en staan zij hart op hart gemiddeld 75 cm uiteen. De twee hanenbalken zijn met pen-en-gat verbindingen in de daksporen vastgezet (zie fig. 41: A) . De voet van de kap bestond oorspronkelijk uit blokkelen en standzonen op een dubbele muurplaat. Net als in het schip (zie 6.2.1.2) verdween deze opstelling bij de verhoging van de borstwering, toen de daksporen ongeveer 60 cm werden ingekort. Het open pengat onderaan de ingekorte sporen is de enige verwijzing naar deze oorspronkelijke toestand.
+Het westelijke deel telt 33 sporenparen (telmerken van west naar oost) en omvat zelf eveneens twee delen. In beide delen hebben de daksporen een doorsnede van 18-20 op 20 cm en staan zij hart op hart gemiddeld 75 cm uiteen. De twee hanenbalken zijn met pen-en-gat verbindingen in de daksporen vastgezet (zie @fig-6-35: A) . De voet van de kap bestond oorspronkelijk uit blokkelen en standzonen op een dubbele muurplaat. Net als in het schip (zie 6.2.1.2) verdween deze opstelling bij de verhoging van de borstwering, toen de daksporen ongeveer 60 cm werden ingekort. Het open pengat onderaan de ingekorte sporen is de enige verwijzing naar deze oorspronkelijke toestand.
 
 Het westelijke deel van de kap telt elf sporenparen en is uitgevoerd als een sporenkap. Het oostelijke deel telt 22 sporenparen, oorspronkelijk voorzien van een hanenbalkfliering met makelaars. Van deze opstelling zijn alleen de makelaars bewaard gebleven, maar de open pengaten in de makelaars tonen aan dat de hanenbalkflieringen en de onderliggende schoren met pen-en-gat verbindingen waren vastgezet. Deze onderdelen verdwenen bij de opstelling van schaargebinten met flieringen omstreeks 1400. De hanenbalken zijn eveneens met pen-en-gat verbindingen in de makelaars ingelaten.
 

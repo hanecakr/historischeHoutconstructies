@@ -54,7 +54,8 @@ language:
 
 format:
   html:
-    theme: yeti
+    theme: journal
+    css: mycss.css
     cover-image: figuren/cover.png
     toc-depth: 4
 

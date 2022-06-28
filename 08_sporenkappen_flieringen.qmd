@@ -24,11 +24,10 @@ Omwille van het snelle en onregelmatige groeipatroon van het eikenhout werden ge
 Sint-Jansstraat 15, dakkap van de achterbouw van de rechtervleugel.
 :::
 
-g
 
 ### Hospitaal Onze-Lieve-Vrouw van de Potterie, klooster
 
-De 23,8 m lange en 5,65 m brede zolder van het klooster is overdekt met een sporenkap van 55 sporenparen die gedragen worden door flieringen op acht lichte schaargebinten[^sporenkappen_flieringen-3] (fig. 25, D). De sporen hebben een doorsnede van 10 op 10 cm en staan hart op hart gemiddeld 40 cm uiteen. De hanenbalken zijn halfhouts verbonden met de sporen. Bij de schaargebinten zijn de korbelen met een pen-en-gat verbinding vastgezet terwijl de schoren zowel boven- als onderaan koud zijn opgenageld. De getrokken telmerken zijn aangebracht op de hanenbalken en sporen maar bevinden zich niet (meer?) in de juiste volgorde. De dakhelling bedraagt 57°.
+De 23,8 m lange en 5,65 m brede zolder van het klooster is overdekt met een sporenkap van 55 sporenparen die gedragen worden door flieringen op acht lichte schaargebinten[^sporenkappen_flieringen-3] (@fig-6-18: D). De sporen hebben een doorsnede van 10 op 10 cm en staan hart op hart gemiddeld 40 cm uiteen. De hanenbalken zijn halfhouts verbonden met de sporen. Bij de schaargebinten zijn de korbelen met een pen-en-gat verbinding vastgezet terwijl de schoren zowel boven- als onderaan koud zijn opgenageld. De getrokken telmerken zijn aangebracht op de hanenbalken en sporen maar bevinden zich niet (meer?) in de juiste volgorde. De dakhelling bedraagt 57°.
 
 [^sporenkappen_flieringen-3]: Het hospitaal Onze-Lieve-Vrouw van de Potterie in de inventaris van het bouwkundig erfgoed: <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/83197>.
 
@@ -38,7 +37,7 @@ Van de acht genomen boorkernen konden er vijf worden gebruikt om, zij het met en
 
 ### Hospitaal Onze-Lieve-Vrouw van de Potterie, keuken
 
-Deze kleine zolder is overdekt met een sporenkap van oorspronkelijk 21 sporenparen (fig. 25, B). De sporen hebben een doorsnede van 9 op 9 cm en staan hart op hart 35 cm uiteen. De halfhoutse verbindingen van de hanenbalken en de sporen zijn met een houten toognagel geborgen. De flieringen rusten op drie schaargebinten en, tegen de achtergevel van de ziekenzaal, op een stijlgebinte. Bij deze gebinten zijn de pen-en-gat verbindingen van de korbelen telkens met twee toognagels geborgen terwijl de schoren koud zijn opgenageld.
+Deze kleine zolder is overdekt met een sporenkap van oorspronkelijk 21 sporenparen (@fig-6-18: B). De sporen hebben een doorsnede van 9 op 9 cm en staan hart op hart 35 cm uiteen. De halfhoutse verbindingen van de hanenbalken en de sporen zijn met een houten toognagel geborgen. De flieringen rusten op drie schaargebinten en, tegen de achtergevel van de ziekenzaal, op een stijlgebinte. Bij deze gebinten zijn de pen-en-gat verbindingen van de korbelen telkens met twee toognagels geborgen terwijl de schoren koud zijn opgenageld.
 
 ::: {#fig-8-2}
 ![](./figuren/image61.jpeg)
@@ -154,7 +153,7 @@ Op de zolderverdieping van het voorhuis is de sporenkap completer bewaard. De ge
 
 ### Kraanplein 6, *Huis Ieper,* oostelijk diephuis
 
-Het rechtse, meest oostelijk gelegen diephuis dateert in oorsprong uit de vroege 13de eeuw maar werd meerdere keren verbouwd[^sporenkappen_flieringen-20]. De bestaande dakkap (zie 7.3.1, fig. 55) behoort tot een verbouwing omstreeks 1500 in bakstenen van 21 x 5 cm.
+Het rechtse, meest oostelijk gelegen diephuis dateert in oorsprong uit de vroege 13de eeuw maar werd meerdere keren verbouwd[^sporenkappen_flieringen-20]. De bestaande dakkap (zie 7.3.1, @fig-7-10) behoort tot een verbouwing omstreeks 1500 in bakstenen van 21 x 5 cm.
 
 [^sporenkappen_flieringen-20]: *Huis Ieper* in de inventaris van het bouwkundig erfgoed: <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/29424>.
 

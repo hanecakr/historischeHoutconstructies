@@ -13,7 +13,7 @@ De 38 sporenparen rusten koud op de enkele muurplaat[^sporenkappen_zonder_langsv
 In een latere periode werden zes schaargebinten met flieringen, makelaars en een nokgording in de kap ingebracht. Deze kap bleef behouden bij de recente renovatie en verbouwing van dit pand.
 
 
-:::{#fig-6-1}
+::: {#fig-6-1}
 ![](./figuren/image9.png)
 
 Dakkap van Spinolarei 16. Links: de gerestaureerde, huidige toestand van de sporenkap. Rechts: zijaanzicht van de later ingebrachte schaargebinten. (© Onroerend Erfgoed \| K. Vandevorst)
@@ -25,7 +25,7 @@ In 2002 werden uit deze dakkap zeven boorkernen genomen voor een dendrochronolog
 [^sporenkappen_zonder_langsverbinding-3]: Eeckhout & Houbrechts 2002, 8-11.
 
 
-:::{#fig-6-2)}
+::: {#fig-6-2}
 ![](./figuren/image10.jpg)
 
 Reconstructie van de originele opstand van de kap van het huis *'t Vaeghevier* aan de Spinolarei 16.
@@ -39,12 +39,11 @@ De westvleugel van dit grote huis behoort tot de oudste kern uit het begin van d
 [^sporenkappen_zonder_langsverbinding-4]: Voor een volledig overzicht van de bouwgeschiedenis zie Van Eenhooge 2002a. Huis *Oudt Inghelandt* in de inventaris van het bouwkundig erfgoed: <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/29704>.
 
 
-:::{#fig-6-3}
+::: {#fig-6-3}
 ![](./figuren/image11.jpg)
 
 De oudste dakkap van het huis *Oudt Inghelandt*.
 :::
-
 
 ### Spiegelrei 24, huis *Ten Walle*, later *Den Ancker*
 
@@ -54,7 +53,7 @@ Onder het huidige huis Spiegelrei 24 schuilen twee diephuizen waarvan het meest 
 
 Op een aantal andere daksporen waren inkavelingen voor een derde en soms vierde hanenbalk aanwezig. Ook uit andere gegevens kan afgeleid worden dat de oorspronkelijke kap minstens één keer werd herplaatst en aangevuld, en er dus minstens twee bouwfasen zijn.
 
-:::{#fig-6-4}
+::: {#fig-6-4}
 ![](./figuren/image12.jpg)
 
 Reconstructie van de dakkap van het huis Ten Walle aan de Spiegelrei 24.
@@ -63,7 +62,6 @@ Reconstructie van de dakkap van het huis Ten Walle aan de Spiegelrei 24.
 Het dendrochronologisch onderzoek van acht elementen uit de dakkap suggereert de aanwezigheid van twee bouwfasen. Van een eerste boorkern is de *terminus post quem* voor de kapdatum 1248d, terwijl die voor een tweede staal 1309d bedraagt[^sporenkappen_zonder_langsverbinding-6]. Aangezien dit enkel de vroegst mogelijk datering aangeeft, kan dit niet rechtstreeks vertaald worden naar een datering voor beide bouwfases. Deze dateringen suggereren enkel dat de eerste bouwfase zich situeert in de tweede helft van de 13de eeuw en de tweede in de eerste helft van de 14de eeuw. Dit is niet in tegenspraak met de datering zoals die kan worden afgeleid uit de afmetingen van de bakstenen in het pand. Het waargenomen formaat 28 x 6 cm wijst op een bouwfase in de periode 1260-1300, terwijl het formaat 25 x 5 cm een bouwfase in ongeveer 1300-1340 aanduidt.
 
 [^sporenkappen_zonder_langsverbinding-6]: Eeckhout & Houbrechts 2002, 55-59.
-
 
 ### Genthof 33, huis *Den Gouden Schaar*
 
@@ -79,7 +77,6 @@ Het aangetroffen baksteenformaat (29,5 x 6,5 cm) laat toe om de bouw van het oor
 
 [^sporenkappen_zonder_langsverbinding-9]: De wankant omvat de laatst gevormde ring die zich net onder de schors bevindt.
 
-
 ### Steenstraat 20, huis *In Slype*
 
 Afgaande op de afmetingen van de bakstenen (28 x 6 cm) werd in de periode 1260-1300 een woning uit het begin van de 13de eeuw uitgebreid of vervangen door een nieuw huis[^sporenkappen_zonder_langsverbinding-10]. Dat was door een brandmuur verdeeld in een voor- en een achterhuis. Hiervan bleef enkel het voorhuis gedeeltelijk bewaard. In de huidige dakkap bleven twee oude sporenkappen bewaard. Het oudste en waarschijnlijk nog oorspronkelijke deel bestaat nu uit vijf sporenparen tegen de achtergevel die door drie hanenbalken waren verbonden. De verbinding tussen sporen en hanenbalken, waarvan slechts enkele bewaard bleven, was halfhouts. De sporen hebben een uitgesproken rechthoekige sectie en vertonen duidelijke brandsporen.
@@ -87,7 +84,6 @@ Afgaande op de afmetingen van de bakstenen (28 x 6 cm) werd in de periode 1260-1
 [^sporenkappen_zonder_langsverbinding-10]: Van Eenhooge 2001, 130-131. Huis *In Slype* in de inventaris van het bouwkundig erfgoed: <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/29798>.
 
 Na de brand werd de dakkap grotendeels vernieuwd (zie 8.3.1) en bleven enkel deze vijf sporenparen als getuigen achter. De kapconstructies werden nog niet dendrochronologisch onderzocht.
-
 
 ### Sint-Salvatorskathedraal, noordelijke kooromgang en Catharinakapel
 
@@ -109,38 +105,33 @@ Van het oorspronkelijke 13de-eeuwse huis is weinig bewaard gebleven[^sporenkappe
 [^sporenkappen_zonder_langsverbinding-13]: Huis *de la Torre* in de inventaris van het bouwkundig erfgoed: <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/29745>.
 
 
-:::{#fig-6-5}
+::: {#fig-6-5}
 ![](./figuren/image13.jpg)
 
 Dakkap van het huis *de la Torre* aan de Spanjaardstraat 16.
 :::
 
-
 Van de zes genomen boorkernen uit evenveel sporen kon met vier jaarringreeksen een middelcurve berekend worden, die een zeer goede overeenkomst vertoont met de geraadpleegde referentiekalenders. De jongste gemeten jaarring dateert uit 1226d. Een schatting van het ontbrekende aantal spinthoutringen leert ons dat de veldatum van het eikenhout te situeren is tussen 1227 en 1267d[^sporenkappen_zonder_langsverbinding-14].
 
 [^sporenkappen_zonder_langsverbinding-14]: Eeckhout & Houbrechts 2002, 45-49.
 
-
 #### Onze-Lieve-Vrouwekerk, schip (oorspronkelijke opstelling)
 
-Van de oorspronkelijke kap van het binnenwerks 26,1 m lange en 10,45 m brede middenschip bleven de 41 sporenparen en de hanenbalken (fig. 11: A) nagenoeg intact bewaard. De getrokken telmerken lopen op van west naar oost. Later werd in deze kap eerst een hanenbalkfliering met makelaars (fig. 11: B) en later flieringen op schaargebinten ingebracht[^sporenkappen_zonder_langsverbinding-15] (zie ook: 7.2.1).
+Van de oorspronkelijke kap van het binnenwerks 26,1 m lange en 10,45 m brede middenschip bleven de 41 sporenparen en de hanenbalken (@fig-6-6: A) nagenoeg intact bewaard. De getrokken telmerken lopen op van west naar oost. Later werd in deze kap eerst een hanenbalkfliering met makelaars (@fig-6-6: B) en later flieringen op schaargebinten ingebracht[^sporenkappen_zonder_langsverbinding-15] (zie ook: 7.2.1).
 
 [^sporenkappen_zonder_langsverbinding-15]: Van Eenhooge 2009, 25-29. De Onze-Lieve-Vrouwekerk in de inventaris van het bouwkundig erfgoed: <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/82359>.
 
-De oorspronkelijke voetraveling (fig. 11: A) verdween toen het middenschip omstreeks 1400 een borstwering kreeg en een nieuwe kroonlijst en goot werden gebouwd. Het enige overblijfsel van deze voetraveling zijn de schuine inkavelingen onderaan de ongeveer 60 cm ingekorte daksporen waarin de standzonen waren vastgemaakt. De daksporen hebben een doorsnede van gemiddeld 18 x 16 cm en zijn halfhouts verbonden met de twee hanenbalken. Deze halfhoutse verbinding heeft de vorm van een halve zwaluwstaart en is vastgezet met een houten toognagel en smeedijzeren nagels.
+De oorspronkelijke voetraveling (@fig-6-6: B) verdween toen het middenschip omstreeks 1400 een borstwering kreeg en een nieuwe kroonlijst en goot werden gebouwd. Het enige overblijfsel van deze voetraveling zijn de schuine inkavelingen onderaan de ongeveer 60 cm ingekorte daksporen waarin de standzonen waren vastgemaakt. De daksporen hebben een doorsnede van gemiddeld 18 x 16 cm en zijn halfhouts verbonden met de twee hanenbalken. Deze halfhoutse verbinding heeft de vorm van een halve zwaluwstaart en is vastgezet met een houten toognagel en smeedijzeren nagels.
 
-
-:::{#fig-6-6}
+::: {#fig-6-6}
 ![](./figuren/image14.jpg)
 
 Langsdoorsnede van de kap van het schip en reconstructie van de verschillende kaptypes.
 :::
 
-
 Uit de tien genomen boorkernen kon moeiteloos een middelcurve worden berekend die een zeer duidelijke overeenkomst vertoont met de beschikbare referentiekalenders. De jongste geregistreerde jaarring dateert uit 1239d. Aangezien spinthout aanwezig was op vijf stalen kan de veldatum vrij precies gesitueerd worden tussen 1240 en 1250d[^sporenkappen_zonder_langsverbinding-16].
 
 [^sporenkappen_zonder_langsverbinding-16]: Eeckhout & Galand 2005.
-
 
 #### Sint-Jansstraat 15, huis *Oudt Inghelandt*, oostvleugel
 
@@ -148,18 +139,15 @@ In de huidige dakkap bleven tien oorspronkelijke sporenparen bewaard, elk voorzi
 
 [^sporenkappen_zonder_langsverbinding-17]: Huis *Oudt Inghelandt* in de inventaris van het bouwkundig erfgoed: <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/29704>.
 
-
-:::{#fig-6-7}
+::: {#fig-6-7}
 ![](./figuren/image15.jpg)
 
 Dakkap van de oostvleugel van het huis *Oudt Inghelandt*.
 :::
 
-
 Het eikenhout van deze kap omvat zowel hout dat een langzame groei kende (en waaruit de stalen werden genomen) als hout van beduidend mindere kwaliteit. De jongste geregistreerde jaarring dateert uit 1257d, waardoor, afhankelijk van de schatting van het aantal verdwenen spinthoutringen, het hout werd geveld tussen 1258 en 1278d[^sporenkappen_zonder_langsverbinding-18].
 
 [^sporenkappen_zonder_langsverbinding-18]: Eeckhout & Houbrechts 2002, 24-31.
-
 
 #### Sint-Janshospitaal, noordelijke ziekenzaal
 
@@ -167,13 +155,11 @@ De sporen staan hart op hart gemiddeld 40 cm uiteen en hebben volgens Herman Jan
 
 [^sporenkappen_zonder_langsverbinding-19]: Janse & Devliegher 1962, afb. 29. De ziekenzalen van het Sint-Janshospitaal in de inventaris van het bouwkundig erfgoed: <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/82410>.
 
-
-:::{#fig-6-8}
+::: {#fig-6-8}
 ![](./figuren/image16.jpg)
 
 Dakkap van de noordelijke ziekenzaal van het Sint-Janshospitaal. (tekening: V. Debonne, naar Devliegher 1965a, fig. 12)
 :::
-
 
 Janse en Devliegher overwogen verschillende dateringen voor deze kap: in 1291 volgens een rekening van het Sint-Janshospitaal, het begin van de 13de eeuw en gelijktijdig met de kap van de middelste ziekenzaal, of omstreeks 1250[^sporenkappen_zonder_langsverbinding-20]. In 2002 nam de Nederlandse bouwhistoricus Dirk de Vries vier monsters uit deze kap, waarvan er twee door Stichting RING konden worden gedateerd. Beide dateringen zijn op één jaar na gelijktijdig: in 1267d en 1268d[^sporenkappen_zonder_langsverbinding-21].
 
@@ -181,25 +167,21 @@ Janse en Devliegher overwogen verschillende dateringen voor deze kap: in 1291 vo
 
 [^sporenkappen_zonder_langsverbinding-21]: Mededeling Dirk de Vries (Rijksdienst voor het Cultureel Erfgoed & Universiteit Leiden), waarvoor dank.
 
-
-
 #### Hospitaal Onze-Lieve-Vrouw van de Potterie, refter
 
 De refter werd in de 18de eeuw met een bouwlaag verhoogd, waarbij de huidige dakkap met schaargebinten en nokgebinten met steekschoren tot stand kwam[^sporenkappen_zonder_langsverbinding-22]. Een groot aantal kepers uit de huidige kap zijn echter hergebruikmateriaal uit een verdwenen sporenkap (figuren 14 en 25, C). De sporen hebben een doorsnede van 15 x 10 cm. De twee hanenbalken waren halfhouts met de sporen verbonden en vastgezet met een houten toognagel en een smeedijzeren nagel. Een inkeping in de sporen en de gaten van drie verdwenen smeedijzeren nagels tonen aan dat de voet van de sporen met standzonen was verstevigd.
 
 [^sporenkappen_zonder_langsverbinding-22]: Het hospitaal Onze-Lieve-Vrouw van de Potterie in de inventaris van het bouwkundig erfgoed: <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/83197>.
 
-:::{#fig-6-9}
+::: {#fig-6-9}
 ![](./figuren/image17.jpg)
 
 Reconstructie van een kap op basis van hergebruikte balken uit de kap van de refter
 :::
 
-
 De twee stalen die hier werden genomen konden moeiteloos ingepast worden in de middelcurve die opgebouwd werd met de resultaten van het dendrochronologisch onderzoek op de dakkap boven de ziekenzaal van het hospitaal (6.3.2). Het hout voor deze kap werd dus geveld tussen 1276 en 1296d[^sporenkappen_zonder_langsverbinding-23].
 
 [^sporenkappen_zonder_langsverbinding-23]: Eeckhout & Houbrechts 2002, 68-75.
-
 
 #### Philipstockstraat 3, huis *De Matte*
 
@@ -217,13 +199,13 @@ Elk sporenpaar telt twee hanenbalken die zoals de sporen een rechthoekige sectie
 
 De getrokken telmerken zijn van zuid (straatgevel) naar noord aangebracht. Ze bevinden zich op het bovenste uiteinde van de sporen en op het westelijke uiteinde van de hanenbalken. In een hanenbalk werd een vlotgat opgemerkt.
 
-:::{#fig-6-10}
+::: {#fig-6-10}
 ![](./figuren/image18.png)
 
 Zicht op de dakkap, met voetraveling en standzonen (links), en sporen met afwisselend brede en smalle secties (rechts). (© Onroerend Erfgoed \| K. Haneca)
 :::
 
-:::{#fig-§-11}
+::: {#fig-§-11}
 ![](./figuren/image19.jpg)
 
 Doorsnede van Philipstockstraat 3 (links) en het hoekpand Vlamingstraat 2 (rechts), met zicht naar de straatzijde.
@@ -232,7 +214,6 @@ Doorsnede van Philipstockstraat 3 (links) en het hoekpand Vlamingstraat 2 (recht
 Elf boorkernen vormen samen één middelcurve waarvan de meest recente jaarring werd gevormd in 1282d. De twee boorkernen waarop wankant bewaard is gebleven laten toe de veldatum te dateren in respectievelijk 1279 en 1282d. De twee licht verschillende dateringen (1279 en 1282d) kunnen wijzen op de aankoop van hout op een houtmarkt, waar hout van verschillende regio's en met verschillende veldata werd verzameld en meerdere jaren werd gestockeerd vooraleer het werd verkocht[^sporenkappen_zonder_langsverbinding-27]. De bouw van deze kap kan niet gestart zijn vóór 1282, maar is waarschijnlijk wel in dat jaar te situeren of kort erna.
 
 [^sporenkappen_zonder_langsverbinding-27]: Haneca 2014c.
-
 
 #### Begijnhof 48--50
 
@@ -246,13 +227,11 @@ Alle sporen hebben een rechthoekige sectie, met uiteenlopende afmetingen: 10 x 1
 
 De standzonen zijn met een pen-en-gat in de blokkelen geborgen, terwijl het bovenste uiteinde in een schuine inkeping in de sporen is ingeschoven en met twee tot vier smeedijzeren nagels is vastgezet. De twee hanenbalken zijn telkens halfhouts verbonden met de sporen, bij de onderste vastgezet met twee smeedijzeren nagels en een houten toognagel. De telmerken bevinden zich hier op het westelijk uiteinde van de hanenbalken. De bovenste hanenbalken zijn nagenoeg allemaal vervangen tijdens een restauratie in 1994. Tegen beide eindgevels zijn windlatten ingelaten in de buitenzijde van de sporen. De nokverbinding is halfhouts met een houten toognagel.
 
-
-:::{#fig-6-11}
+::: {#fig-6-11}
 ![](./figuren/image20.png){width="6.313092738407699in" height="2.0954975940507437in"}
 
 Voorgevel van Begijnhof 48-50 (links). De dakkap van Begijnhof 50 (rechts). (© Onroerend Erfgoed \| K. Haneca)
 :::
-
 
 Tot de oorspronkelijke bouwperiode behoren kaarsnissen met driepasboog op de eerste verdieping. Er kan worden verondersteld dat deze verdieping oorspronkelijk een dormitorium was, onder een ziende kap: de bestaande moerbalken zijn veel lichter dan die van de gelijkvloerse verdieping (waar bij de restauratie een zwaar korbeelstel werd gereconstrueerd) en waren waarschijnlijk trekbalken die oorspronkelijk geen kinderbalken en een vloer droegen.
 
@@ -261,7 +240,6 @@ In een latere periode werden flieringen ingebracht om de kap te verstevigen. De 
 In de kap van Begijnhof 50 werden zeven boorkernen genomen die samen één middelcurve vormen. Na vergelijking met absoluut gedateerde referentiekalenders kon de jongste jaarring worden gedateerd in 1267d. Aangezien op twee boorkernen wankant aanwezig was, laat dit toe de veldatum te situeren tussen het najaar van 1267 en het vroege voorjaar van 1268[^sporenkappen_zonder_langsverbinding-29].
 
 [^sporenkappen_zonder_langsverbinding-29]: Haneca 2014d.
-
 
 #### Spiegelrei 18, huis *Ten Zwaerdekine*
 
@@ -275,7 +253,6 @@ Het snel gegroeide eikenhout van deze kap viel moeilijk te analyseren. De middel
 
 [^sporenkappen_zonder_langsverbinding-31]: Eeckhout & Houbrechts 2002, 50-53.
 
-
 #### Katelijnestraat 86, conciërgewoning van de Stedelijke Academie
 
 De huidige conciërgewoning van de huidige Stedelijke Academie maakte oorspronkelijk deel uit van het Bogardenklooster, hier reeds vóór 1252 gevestigd en vanaf 1513 omgevormd tot Bogardenschool[^sporenkappen_zonder_langsverbinding-32]. In 1513 werd het complex door de stad omgevormd tot een onderwijsinstelling[^sporenkappen_zonder_langsverbinding-33]. Op de stadskaart van Marcus Gerards (1562) is het afgebeeld als een ommuurd complex met een kapel, twee schoolvleugels, en eenlaagse gebouwtjes op de plaats van de conciërgewoning. Sinds de restauratie omstreeks 1977 zijn er op de zolder van dit gebouw kamers ingericht en werd de kap grotendeels vernieuwd, zodat nader onderzoek van de kapconstructie niet mogelijk was.
@@ -288,7 +265,6 @@ Op foto's genomen tijdens de restauratie[^sporenkappen_zonder_langsverbinding-34
 
 [^sporenkappen_zonder_langsverbinding-34]: Bewaard bij de stedelijke Dienst Monumentenzorg en Stadsvernieuwing.
 
-
 #### Markt 21
 
 De waarschijnlijk 17de-eeuwse gordingenkap van dit huis, met schaargebinten en geschoorde nokgebinten, bevat hergebruikte balken uit een oudere kap[^sporenkappen_zonder_langsverbinding-35]. De bewaarde naaldhouten daksporen hebben een uitgesproken rechthoekige sectie (gemiddeld 10 x 17 cm) en vertonen aan één zijde lichte inkavelingen voor een standzoon en twee hanenbalken die telkens met smeedijzeren nagels waren vastgezet. Nabij de onderste hanenbalk bevinden zich getrokken telmerken. Gezien de moerbalken van de onderliggende tweede verdieping oorspronkelijk voorzien waren van korbeelstellen, kan verondersteld worden dat de kapvoet op een voetraveling rustte.
@@ -297,7 +273,6 @@ De waarschijnlijk 17de-eeuwse gordingenkap van dit huis, met schaargebinten en g
 
 Eén dakspoor, met telmerk I, is aan de smalle zijde voorzien van een brede groef waarin de beplanking van de geveltop was aangebracht. De oorspronkelijke straatgevel was dus waarschijnlijk een uitkragende houten gevel. De formaten van de bakstenen in de grotendeels bewaarde achtergevel (29 x 7,5 cm) wijzen voor dit huis op een bouw in de 13de eeuw.
 
-
 #### Sint-Jakobsstraat 63
 
 Dit huis ontstond omstreeks 1300 als een uitbreiding van het oudere buurhuis Sint-Jakobsstraat 61[^sporenkappen_zonder_langsverbinding-36]. Het werd verbouwd op het einde van de 14de eeuw. De vensters van de gelijkvloerse verdieping waren smalle gekoppelde spitsboogvensters in grote spitsboognissen. Op de verdieping werden resten ontdekt van spitsboogvormige spaarnissen.
@@ -305,7 +280,6 @@ Dit huis ontstond omstreeks 1300 als een uitbreiding van het oudere buurhuis Sin
 [^sporenkappen_zonder_langsverbinding-36]: Sint-Jakobsstraat 63 in de inventaris van het bouwkundig erfgoed: <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/29684>.
 
 In de huidige dakkap zijn sporenparen bewaard van een oudere sporenkap die misschien nog tot deze verbouwing teruggaat. De daksporen waren halfhouts verbonden door twee hanenbalken (waarvan slechts enkele van de bovenste rij bewaard bleven), terwijl nagelgaten onderaan de daksporen waarschijnlijk wijzen op verdwenen standzonen. De volgorde van de getrokken telmerken loopt van achter- naar voorgevel.
-
 
 ### Sporenkappen zonder langsverbinding, met dubbele muurplaat of voetraveling, hanenbalken en makelaars
 
@@ -317,23 +291,19 @@ De kap boven de twee westelijke traveeën van het middenkoor bevat elf sporenpar
 
 [^sporenkappen_zonder_langsverbinding-38]: Debonne & Haneca 2011; Haneca & Debonne 2012.
 
-
-:::{#fig-6-12}
+::: {#fig-6-12}
 ![](./figuren/image21.jpg)
 
 Reconstructie van de dakkap van het eerste koor van de O.L.V.-kerk in Damme. De aanwezigheid van een voetraveling dan wel trekbalken is onduidelijk (tekening: V. Debonne).
 :::
 
-
 De vandaag zichtbare afwisseling van sporen met en zonder inkepingen gaat terug tot de opbouw van de huidige kap met houten tongewelf. In deze kap is er een bijna systematische afwisseling tussen sporen met een vierkante doorsnede en sporen met een rechthoekige doorsnede. Deze afwisseling kenmerkt ook de kap boven het oostelijke deel van het middenkoor, waar echter geen oude balken zijn hergebruikt. De sporen met een vierkante sectie zijn afkomstig uit de ontmantelde kap van het eerste eenbeukig koor van de Onze-Lieve-Vrouw-Hemelvaartkerk. De sporen met een rechthoekige sectie behoren tot de jongere kapconstructie. Deze bevindingen werden bevestigd door de resultaten van het dendrochronologisch onderzoek.
 
-
-:::{#fig-6-13}
+::: {#fig-6-13}
 ![](./figuren/image22.jpg)
 
 Bouwfasen van het koor van de O.L.V.-kerk in Damme, van het eerste eenbeukig koor (1) tot het driebeukige hallenkoor (4). (tekening: V. Debonne)
 :::
-
 
 De hergebruikte daksporen hebben een eerder vierkante sectie (14-15 x 17-18 cm). Zij bezitten inkepingen in de vorm van een halve zwaluwstaart voor volgende halfhoutse verbindingen: voor een makelaar in de nok van de sporenparen, voor twee hanenbalken en voor een hoge standzoon. Het is onduidelijk of de standzonen steunden op een voetraveling of op trekbalken. In het geval van een kap met voetraveling kan dit wijzen op de voorziene aanleg van een stenen gewelf.
 
@@ -342,7 +312,6 @@ De gereconstrueerde kap, met voetraveling dan wel trekbalken, behoort tot een ty
 [^sporenkappen_zonder_langsverbinding-39]: Epaud 2007, 137; Hoffsummer 2009, 168.
 
 Uit de zes genomen monsters kon een middelcurve worden berekend die een duidelijke overeenkomst vertoonde met de beschikbare referentiekalenders. Aangezien op een aantal sporen nog schors aanwezig was, kan de veldatum heel precies bepaald worden. Daaruit blijkt dat de daksporen uit deze kap geveld werden in het najaar of de winter van 1241/1242d.
-
 
 ### Sporenkappen zonder langsverbinding, met dubbele muurplaat of voetraveling en hanenbalken op korbelen
 
@@ -362,13 +331,11 @@ Tot een eerste dakconstructie behoren een twintigtal balken, hoofdzakelijk oude 
 
 Opnieuw als daksporen hergebruikte oude sporen werden anderhalve tot twee meter verlengd. De oorspronkelijk kortere sporen impliceren voor de verdwenen kap een dakhelling van ongeveer 55°, flauwer dus dan de helling van de huidige kap uit het einde van de 13de eeuw. Gezien de aanwezigheid van een voorlopige afsluitwand was deze kap wellicht opgesteld boven de aanzet van het nieuwe gotische koor uit het tweede kwart van de 13de eeuw.
 
-
-:::{#fig-6-14}
+::: {#fig-6-14}
 ![](./figuren/image23.jpeg)
 
 Reconstructie van de kap van het koor van de O.L.V.-kerk. Twee sporenparen vertonen sporen van een extra hanenbalk (rechts).
 :::
-
 
 Met de vier genomen boorkernen uit elementen van deze gereconstrueerde kap kon moeiteloos een middelcurve worden berekend, die zeer goede resultaten gaf bij de vergelijking met de referentiekalenders. De jongste gemeten jaarring dateert uit 1228d en het vellen van het hout wordt gedateerd tussen 1229 en 1245d[^sporenkappen_zonder_langsverbinding-44].
 
@@ -382,13 +349,11 @@ De bestaande dakkap van huis *Ter Loge* -- later natiehuis van de Florentijnse L
 
 De getrokken telmerken zijn aangebracht van achter- naar voorgevel. Behalve de telmerken zijn er ook handelsmerken terug te vinden.
 
-
-:::{#fig-6-15}
+::: {#fig-6-15}
 ![](./figuren/image24.jpeg)
 
 Dakkap van het huis *Ter Loge* aan de Academiestraat 1.
 :::
-
 
 Van de acht genomen boorkernen konden er vier gebruikt worden voor het berekenen van een middelcurve. Ondanks de middelmatige kwaliteit van de stalen (relatief brede jaarringen met abrupte schommelingen) kon de jongste gemeten jaarring in 1337d gedateerd worden. Dit betekent dat het vellen van de eiken moet gesitueerd worden tussen 1338 en 1349d[^sporenkappen_zonder_langsverbinding-46].
 
@@ -400,12 +365,11 @@ Deze dakconstructie is waarschijnlijk gelijktijdig opgetrokken met de nagenoeg i
 
 [^sporenkappen_zonder_langsverbinding-47]: Huis *Hertsberghe* in de inventaris van het bouwkundig erfgoed: <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/29212>.
 
-:::{#fig-6-16}
+::: {#fig-6-16}
 ![](./figuren/image25.jpeg)
 
 Huis *Hertsberghe* aan de Academiestraat 3. Doorsnede A toont de oorspronkelijke kap van het voorhuis weer. Doorsnede B is te situeren in het achterhuis (zie 6.4.1).
 :::
-
 
 Van de tien genomen boorkernen werden er slechts vijf geschikt bevonden voor verder onderzoek. Met de opgemeten groeiringreeksen kan een middelcurve berekend worden. De vergelijking met de referentiekalenders gaf als resultaat dat de jongste gemeten jaarring in 1337d dateert. Dit is hetzelfde resultaat als dat bekomen in het buurhuis. De synchronisatie tussen de curven van de twee huizen is niet uitmuntend, maar laat toch toe het resultaat te bevestigen. Afhankelijk van het geschatte aantal ontbrekende ringen moet de veldatum van het eikenhout gesitueerd worden tussen 1338 en 1352[^sporenkappen_zonder_langsverbinding-48].
 
@@ -433,13 +397,11 @@ De slaapzaal op de eerste verdieping van het broederklooster is 25 m lang, 9,1 m
 
 [^sporenkappen_zonder_langsverbinding-52]: Het broederklooster in de inventaris van het bouwkundig erfgoed: <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/82411>.
 
-
-:::{#fig-6-17}
+::: {#fig-6-17}
 ![](./figuren/image26.jpg)
 
 Dakkap van het broederklooster in het Sint-Janshospitaal.
 :::
-
 
 Het gebruikte hout kende een snelle groei, wat resulteerde in weinig en brede jaarringen. De veertien genomen boorkernen leverden slechts zes bruikbare jaarringreeksen op die voldoende lang waren en waaruit een middelcurve kon worden berekend. De jongste gemeten jaarring kon in 1237d gedateerd worden. Dit betekent dat, rekening houdend met een schatting van het aantal ontbrekende spinthoutringen, de veldatum van het hout moet worden gesitueerd tussen 1238 en 1258d[^sporenkappen_zonder_langsverbinding-53]. Door deze dendrochronologische datering wordt duidelijk dat dit de tot nu toe oudst gekende dakkap met houten tongewelf is in Brugge.
 
@@ -447,17 +409,15 @@ Het gebruikte hout kende een snelle groei, wat resulteerde in weinig en brede ja
 
 Tijdens kleine verbouwingswerken in de gelijkvloerse verdieping van het gebouw kwamen resten tevoorschijn van de oorspronkelijke balklaag van deze verdieping. De balklaag werd ondersteund door een overlangse onderslagbalk op houten standvinken. De balksleutel die doorgaans tussen standvink en onderslagbalk zit, is hier volledig in de standvink ingelaten. Tussen standvink en balksleutel bevonden zich korbelen waarvan de pen-en-gat verbinding onderaan met twee toognagels was vastgezet. De hoeken van de (onvolledig bewaarde) standvink zijn voorzien van een velling. Een nagenoeg identieke samenstelling is bewaard gebleven in de gelijkvloerse verdieping van de zuidelijke ziekenzaal van het Sint-Janshospitaal (zie 7.1.1), waar de 5,8 m hoge standvinken echter geen onderslagbalk maar moerbalken ondersteunen.
 
-
-:::{#fig-6-18}
+::: {#fig-6-18}
 ![](./figuren/image27.jpeg)
 
 De dakkap van het broederklooster van het Sint-Janshospitaal, gezien naar het noorden. (© Onroerend Erfgoed \| K. Vandevorst)
 :::
 
-
 ### Hospitaal Onze-Lieve-Vrouw van de Potterie, ziekenzaal
 
-De slaapzaal boven de vroegere ziekenzaal (nu museum) is nu opgedeeld in een eerste verdieping en zolder, maar was oorspronkelijk een 21,3 m lange en 9,25 m brede zaal met een ziende kap van 34 sporenparen (fig. 25, A)[^sporenkappen_zonder_langsverbinding-54]. De sporen hebben een doorsnede van 15 op 15 cm en staan hart op hart gemiddeld 60 cm uiteen. Op de dubbele muurplaat liggen blokkelen waarin de voeten van sporen en standzonen met een pen-en-gat verbinding zijn ingelaten. Ook de twee hanenbalken zijn op deze manier verbonden met de sporen. Onder de onderste hanenbalk bevinden zich korbelen die telkens met een houten toognagel en twee smeedijzeren nagels zijn vastgemaakt. Standzonen en korbelen hebben een licht gebogen vorm waardoor een houten ton wordt gecreëerd. Op de onderste hanenbalken ligt in de langsrichting een 30 cm brede plank. Deze is geen hanenbalkfliering maar waarschijnlijk een stelrib die de sporenparen overeind hield tot de plaatsing van het dakbeschot. Een soortgelijke situatie werd vastgesteld in de kap van het dormitorium van het dominicanenklooster in Leuven (1253-1263d)[^sporenkappen_zonder_langsverbinding-55] en is door Janse gesignaleerd in de Janskerk te Utrecht (omstreeks 1280)[^sporenkappen_zonder_langsverbinding-56].
+De slaapzaal boven de vroegere ziekenzaal (nu museum) is nu opgedeeld in een eerste verdieping en zolder, maar was oorspronkelijk een 21,3 m lange en 9,25 m brede zaal met een ziende kap van 34 sporenparen (@fig-6-19, A)[^sporenkappen_zonder_langsverbinding-54]. De sporen hebben een doorsnede van 15 op 15 cm en staan hart op hart gemiddeld 60 cm uiteen. Op de dubbele muurplaat liggen blokkelen waarin de voeten van sporen en standzonen met een pen-en-gat verbinding zijn ingelaten. Ook de twee hanenbalken zijn op deze manier verbonden met de sporen. Onder de onderste hanenbalk bevinden zich korbelen die telkens met een houten toognagel en twee smeedijzeren nagels zijn vastgemaakt. Standzonen en korbelen hebben een licht gebogen vorm waardoor een houten ton wordt gecreëerd. Op de onderste hanenbalken ligt in de langsrichting een 30 cm brede plank. Deze is geen hanenbalkfliering maar waarschijnlijk een stelrib die de sporenparen overeind hield tot de plaatsing van het dakbeschot. Een soortgelijke situatie werd vastgesteld in de kap van het dormitorium van het dominicanenklooster in Leuven (1253-1263d)[^sporenkappen_zonder_langsverbinding-55] en is door Janse gesignaleerd in de Janskerk te Utrecht (omstreeks 1280)[^sporenkappen_zonder_langsverbinding-56].
 
 [^sporenkappen_zonder_langsverbinding-54]: Voor een overzicht van alle kappen van het hospitaal: Gilté & Vanwalleghem 2004b, 408-409. Het hospitaal Onze-Lieve-Vrouw van de Potterie in de inventaris van het bouwkundig erfgoed: <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/83197>.
 
@@ -465,14 +425,11 @@ De slaapzaal boven de vroegere ziekenzaal (nu museum) is nu opgedeeld in een eer
 
 [^sporenkappen_zonder_langsverbinding-56]: Janse 1989, 154-155, afb. 261.
 
-
-:::{#fig-6-19}
-
+::: {#fig-6-19}
 ![](./figuren/image28.jpg)
 
 Overzicht van de kappen in het hospitaal Onze-Lieve-Vrouw van de Potterie.
 :::
-
 
 De windlatten die zowel bij de voor- als de achtergevel de eerste negen tot tien sporenparen verbinden hebben waarschijnlijk eveneens een voorlopige functie gehad. De getrokken telmerken zijn van achter- naar voorgevel aangebracht.
 
@@ -496,14 +453,13 @@ Dertien boorkernen uit het eikenhout van de dakkap en de kinderbalken van de gel
 
 De gemeenschappelijke veldatum van de gedateerde boorkernen uit de dakkap en balklaag ligt tussen 1276 en 1279d. Dit bevestigt en vernauwt de uit baksteenformaten, tienlagenmaten en metselverband afgeleide datering van het huis in ca. 1270-1300.
 
-:::{#fig-6-20}
+::: {#fig-6-20}
 ![](./figuren/image29.png)
 
 Foto's van de dakkap (boven) en opvallende windlat (onderste foto's) van het huis *De Cluuse*, Kraanplein 4. (© Onroerend Erfgoed \| K. Haneca)
 :::
 
-
-:::{#fig-6-21}
+::: {#fig-6-21}
 ![](./figuren/image30.jpg)
 
 Opstand van de dakkap van het huis *De Cluuse*, Kraanplein 4. Links: detail van de voet van het gespan met telmerk VIII (noordzijde) waar nog een blokkeel en standzoon aanwezig zijn. (tekening: V. Debonne)
@@ -535,13 +491,11 @@ In het westelijke deel van de dakkap hebben de sporen een doorsnede van 15 x 15 
 
 Het westelijke deel van de dakkap op het middenkoor is dendrochronologisch gedateerd, met een veldatum in de winter van 1269/1270d. Voor het oostelijk deel werd een tweede bouwfase bevestigd met een veldatum tussen 1374 en 1392.
 
-
-:::{#fig-6-22}
+::: {#fig-6-22}
 ![](./figuren/image31.jpg)
 
 Opstand van de dakkappen van het middenkoor. Links: gespan met telmerk XII uit fase 1 van het middenkoor. Rechts: gespan met telmerk IIII, uit fase 2 van het middenkoor. (tekening: V. Debonne)
 :::
-
 
 #### Middenschip
 
@@ -555,21 +509,17 @@ De sectie van de sporen is rechthoekig (16 tot 19,5 cm op 13 tot 17 cm). De afst
 
 Het dendrochronologisch onderzoek dateert de oprichting van de dakkap op het middenschip tussen 1344 en 1358.
 
-
-:::{#fig-6-23}
+::: {#fig-6-23}
 ![](./figuren/image32.jpg)
 
 Opstand van de dakkap van het middenschip. Tekening gebaseerd op gespan met telmerk XXI. (tekening: V. Debonne)
 :::
 
-:::{#fig-6-24}
-
+::: {#fig-6-24}
 ![](./figuren/image33.JPG)
 
 Dakkap van het schip met zicht op de onderste hanenbalken, de noordelijke windlat en de kalfjes en korbelen van het houten tongewelf. Op de bovenzijde van de hanenbalken zijn de telmerken zichtbaar. (© Onroerend Erfgoed \| V. Debonne)
 :::
-
-
 
 #### Noordtransept
 
@@ -581,13 +531,9 @@ Het dendrochronologisch onderzoek wijst de sporen van de dakkap, met een veldatu
 
 De dendrochronologische datering van de onderste hanenbalken (1366/1367d) biedt een *terminus post quem* voor de inbreng van de gebogen standzonen en korbelen en de verhoging van de onderste hanenbalken.
 
-
-:::{#fig-6-25}
-![](./figuren/image34.jpg)
-Opstand van de dakkap van het noordtransept (gespan met telmerk XIII) en reconstructie van de oorspronkelijke toestand (rechts). (tekening: V. Debonne)
+::: {#fig-6-25}
+![](./figuren/image34.jpg) Opstand van de dakkap van het noordtransept (gespan met telmerk XIII) en reconstructie van de oorspronkelijke toestand (rechts). (tekening: V. Debonne)
 :::
-
-
 
 #### Samenvatting
 
@@ -629,13 +575,11 @@ Het oostelijke deel van de kap telt 33 sporenparen en vier gehalveerde gespannen
 
 Er zijn zowel eerder vierkante (ca. 14-15 x 17-18 cm) als rechthoekige sporen (ca. 9 x 15) maar anders dan in de voorgaande fase gaat het niet om een oudere en een jongere fase. Uit de schuine lassen blijkt dat de sporen minstens uit twee stukken bestaan. Windlatten zijn aangebracht tussen het eerste en het twaalfde sporenpaar. Deze zijn halfhouts ingelaten in de buitenzijde van de sporen. Op de onderste hanenbalk van het laatste sporenpaar staat een makelaar die voornamelijk is ingebracht om de kapconstructie van de apsis op te vangen.
 
-
-:::{#fig-6-26}
+::: {#fig-6-26}
 ![](./figuren/image35.jpg)
 
 Opstanden van de twee bouwfasen van de dakkap van het middenkoor van de O.L.V.-kerk in Damme. Links: gespan 20 (westkant) uit de eerste fase van het middenkoor. Rechts: gespan 12 (westkant) uit de tweede fase van het middenkoor. (tekening: V. Debonne)
 :::
-
 
 De kap van het middenkoor werd, met hergebruik van sporen uit 1241/42d in het westelijk deel, opgericht tussen 1312 en 1315d.
 
@@ -653,19 +597,17 @@ In de dakkap boven de oostelijke traveeën bevinden de bovenste hanenbalken zich
 
 De dakkap boven de twee westelijke traveeën van het zuidkoor werd opgericht in 1283-1291d. De dakkap boven de oostelijke traveeën werd opgetrokken tussen 1312 en 1315d.
 
-:::{#fig-6-27}
+::: {#fig-6-27}
 ![](./figuren/image36.jpg)
 
 Opstand van de dakkap van het noordkoor van de O.L.V.-kerk in Damme. Links: gespan 14 uit de eerste fase van het noordkoor (westkant). Rechts: gespan 24 uit de tweede fase van het noordkoor (westkant). (tekening: V. Debonne)
 :::
 
-
-:::{#fig-6-28}
+::: {#fig-6-28}
 ![](./figuren/image37.jpg)
 
 Opstand van de dakkap van het zuidkoor van de O.L.V.-kerk in Damme. Links: gespan 8 van de eerste fase van het zuidkoor (westkant). Rechts: gespan 10 uit de tweede fase (westkant). (tekening: V. Debonne)
 :::
-
 
 ### Sint-Jakobskerk, noordelijke zijbeuk
 
@@ -675,13 +617,9 @@ De 27 meter lange noordelijke zijbeuk bestaat ten dele uit het schip van de 13de
 
 De binnenste muurplaten liggen op consoles aan de noordzijde en op een spitsboogfries aan de zuidzijde. Ter hoogte van de vijf trekbalken steunen de binnenste muurplaten op bakstenen halfzuiltjes met knoppenkapitelen. De sporen van de 63 gespannen hebben een vierkante (12 x 12 cm) tot rechthoekige (10 x 15 cm) sectie en staan hart op hart gemiddeld 45 cm uiteen. Er is geen langsverbinding tussen de sporenparen.
 
-
-:::{#fig-6-29}
-
-![](./figuren/image38.jpeg)
-Dakkap van de noordelijke zijbeuk van de Sint-Jakobskerk.
+::: {#fig-6-29}
+![](./figuren/image38.jpeg) Dakkap van de noordelijke zijbeuk van de Sint-Jakobskerk.
 :::
-
 
 Op de dubbele muurplaten liggen blokkelen waarin de voet van de daksporen en de standzonen met een pen-en-gat verbinding zijn vastgezet. De top van de gebogen standzonen rust in een kleine inkeping in de daksporen en is bevestigd met één houten toognagel en drie tot vijf spijkers. De twee hanenbalken zijn met een pen-en-gat verbinding in de daksporen geborgen. Onder de onderste hanenbalk bevinden zich gebogen korbelen die zowel in de daksporen als in de hanenbalk met houten toognagels en smeedijzeren nagels zijn vastgemaakt. Tussen korbelen en daksporen zijn kalfjes aangebracht die telkens met een halfhoutse hele of halve zwaluwstaartverbinding en een toognagel zijn vastgezet. In het midden van deze hanenbalk is een omgekeerde V-vormige inkeping die de spitsboogvorm van de spitse ton vervolledigt. De getrokken telmerken zijn van oost naar west aangebracht en bevinden zich op nagenoeg alle onderdelen.
 
@@ -689,8 +627,7 @@ De kap wordt traditioneel beschouwd als een overblijfsel van de kruiskerk uit de
 
 [^sporenkappen_zonder_langsverbinding-70]: Janse & Devliegher 1962, 326-327.
 
-
-:::{#fig-6-30}
+::: {#fig-6-30}
 ![](./figuren/image39.jpeg)
 
 Zicht op de impressionante dakkap van de noordbeuk. (© Onroerend Erfgoed \| K. Haneca)
@@ -710,13 +647,11 @@ De binnenste muurplaat ligt aan de noordzijde op een spitsboogfries dat, zoals i
 
 De voet van de daksporen en de standzonen zijn met kleine inkepingen ingelaten in de blokkelen waar ze met smeedijzeren nagels zijn vastgemaakt. De top van de gebogen standzonen rust in een inkeping in de daksporen en is met smeedijzeren nagels vastgezet. De twee hanenbalken zijn met een pen-en-gat verbinding in de daksporen geborgen. De gebogen korbelen onder de onderste hanenbalk zijn telkens met een houten toognagel en meerdere smeedijzeren nagels vastgemaakt. Het kalfje tussen dakspoor en korbeel is met een pen-en-gat verbinding in het dakspoor geborgen, maar met een halfhoutse verbinding en twee tot vier smeedijzeren nagels in het korbeel vastgemaakt. De getrokken telmerken zijn van west naar oost aangebracht.
 
-
-:::{#fig-6-31}
+::: {#fig-6-31}
 ![](./figuren/image40.jpeg)
 
 Dakkap van de zuidelijk zijbeuk van de Sint-Jakobskerk.
 :::
-
 
 Deze dakkap heeft ongetwijfeld dezelfde datering als de bouw van deze zijbeuk tussen 1457 en 1512, al werd dit nog niet bevestigd door een dendrochronologisch onderzoek.
 
@@ -730,13 +665,11 @@ Zoals blijkt uit sporen op de westgevel van de toren was de kapel oorspronkelijk
 
 [^sporenkappen_zonder_langsverbinding-74]: *Idem*, 285.
 
-
-:::{#fig-6-32}
+::: {#fig-6-32}
 ![](./figuren/image41.jpeg)
 
 Zicht op de dakkap van de Sint-Corneliuskapel in het Sint-Janshospitaal. (© Onroerend Erfgoed \| K. Vandevorst)
 :::
-
 
 ## sporenkappen zonder langsverbinding, met betimmerd tongewelf
 
@@ -746,7 +679,7 @@ Zoals vermeld gaat de oorsprong van dit huis terug tot de vroege 13de eeuw, maar
 
 [^sporenkappen_zonder_langsverbinding-75]: Huis *Hertsberghe* in de inventaris van het bouwkundig erfgoed: <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/29212>.
 
-De tweede verdieping van het achterhuis werd in de 15de eeuw van een zoldering voorzien, maar was oorspronkelijk een kleine zaal met een houten tongewelf tegen een sporenkap met voetraveling. Deze kap is typologisch nagenoeg identiek aan die in het voorste (zuidelijke) gedeelte, maar standzonen en korbelen zijn in gekromd hout uitgevoerd (zie figuur 22, doorsnede B). In deze kap zijn ook kleine kalfjes tussen sporen en korbelen aangebracht, wellicht om het gewicht van de houten betimmering te helpen dragen. Dat deze betimmering er ooit was, wordt aangegeven door de talrijke nagelgaten in standzonen, sporen en korbelen. Nagenoeg alle sporenparen zijn verbonden door schuin geplaatste windlatten. De getrokken telmerken vervolledigen de reeks die werd ingezet in de kap van het voorhuis: de 15 sporenparen zijn genummerd van 18 tot 32. De telmerken komen voor op nagenoeg alle houtstukken. In het oostelijk gedeelte zijn de telmerken voorzien van een bijkomend schuin streepje. Verder vertonen enkele hanenbalken dezelfde eigendomsmerken als in de waarschijnlijk gelijktijdig gebouwde kap van het buurhuis Academiestraat 1 (zie 6.2.3.2), waarvan het bouwhout een veldatum heeft tussen 1338 en 1349.
+De tweede verdieping van het achterhuis werd in de 15de eeuw van een zoldering voorzien, maar was oorspronkelijk een kleine zaal met een houten tongewelf tegen een sporenkap met voetraveling. Deze kap is typologisch nagenoeg identiek aan die in het voorste (zuidelijke) gedeelte, maar standzonen en korbelen zijn in gekromd hout uitgevoerd (zie @fig-6-16, doorsnede B). In deze kap zijn ook kleine kalfjes tussen sporen en korbelen aangebracht, wellicht om het gewicht van de houten betimmering te helpen dragen. Dat deze betimmering er ooit was, wordt aangegeven door de talrijke nagelgaten in standzonen, sporen en korbelen. Nagenoeg alle sporenparen zijn verbonden door schuin geplaatste windlatten. De getrokken telmerken vervolledigen de reeks die werd ingezet in de kap van het voorhuis: de 15 sporenparen zijn genummerd van 18 tot 32. De telmerken komen voor op nagenoeg alle houtstukken. In het oostelijk gedeelte zijn de telmerken voorzien van een bijkomend schuin streepje. Verder vertonen enkele hanenbalken dezelfde eigendomsmerken als in de waarschijnlijk gelijktijdig gebouwde kap van het buurhuis Academiestraat 1 (zie 6.2.3.2), waarvan het bouwhout een veldatum heeft tussen 1338 en 1349.
 
 Uit de negen boorkernen kon geen gemiddelde berekend worden. De stalen werden wel afzonderlijk vergeleken met de referentiekalenders. Eén daarvan gaf een duidelijk resultaat en liet toe om de veldatum zeker na 1324d te situeren. Drie andere boorkernen gaven minder zekere resultaten bij vergelijking met de referentiekalenders, namelijk een mogelijke einddatering in 1323d (twee maal) en 1326d. Eén van deze stalen bezat nog één spintring waardoor de veldatum van het hout onder voorbehoud kan worden gedateerd tussen 1332 en 1352d. Deze hypothetische datering wordt wel ondersteund door de datering van de kap van het voorhuis, welke te situeren is tussen 1338 en 1352d[^sporenkappen_zonder_langsverbinding-76].
 
@@ -764,12 +697,11 @@ De getrokken telmerken op sporen, hanenbalken en korbelen verlopen van achter- n
 
 [^sporenkappen_zonder_langsverbinding-78]: Devliegher 1975², 22.
 
-:::{#fig-6-33}
+::: {#fig-6-33}
 ![](./figuren/image42.jpg)
 
 Dakkap van Begijnhof 30.
 :::
-
 
 Bij vier boorkernen uit het hout van de dakkap kon met de opgemeten groeiringpatronen moeiteloos een middelcurve berekend worden die betrouwbare resultaten gaf bij vergelijking met de referentie-kalenders. De jongste gemeten jaarring dateert uit 1327d. Het vellen van het hout kan daardoor gesitueerd worden tussen 1328 en 1338[^sporenkappen_zonder_langsverbinding-79].
 
@@ -787,7 +719,6 @@ Tijdens restauratiewerken in 2015 werden vier planken van de betimmering dendroc
 
 [^sporenkappen_zonder_langsverbinding-82]: Devliegher 1997; Gilté & Vanwalleghem 2004a, 311.
 
-
 ## sporenkappen zonder langsverbinding, met hanenbalken en makelaars op de trekbalken
 
 ### Onze-Lieve-Vrouwekerk, koor, reconstructie van oude(re) kap
@@ -804,13 +735,11 @@ Typologisch behoort de kap tot dakkappen waarin kruisende schoren de onderste ha
 
 [^sporenkappen_zonder_langsverbinding-86]: Opstand van deze dakkap in: Verhaegen 1889, pl. XXI-XXIV.
 
-
-:::{#fig-6-34}
+::: {#fig-6-34}
 ![](./figuren/image43.jpeg)
 
 Reconstructie van twee kappen waarvan het hout werd gerecupereerd voor de bouw van de dakkap van het koor van de O.L.V.-kerk.
 :::
-
 
 Vier van de vijf genomen boorkernen leverden een middelcurve op die een duidelijke overeenkomst vertoont met de geraadpleegde referentiekalenders. De jongste gemeten jaarring dateert uit 1229d. Het vellen van de bomen kunnen we daardoor situeren tussen 1230 en 1240d. Een vijfde staal zonder duidelijke overeenkomst met de overige stalen werd afzonderlijk vergeleken met de referentie-kalenders. De jongste gemeten jaarring op dit staal dateert uit 1209d, wat het vellen van het hout situeert tussen 1223 en 1243d[^sporenkappen_zonder_langsverbinding-87], en dus een vergelijkbaar resultaat oplevert als de overige gedateerde boorkernen uit deze dakkap.
 
@@ -824,15 +753,13 @@ In de 37 meter lange bekapping boven het koor zijn twee bouwfasen te onderscheid
 
 [^sporenkappen_zonder_langsverbinding-88]: Van Eenhooge 2009, 30.
 
-De telmerken in het oostelijke deel zijn aangebracht van west naar oost. Net zoals in het schip en het westelijk deel van het koor is de huidige voetraveling niet oorspronkelijk maar rustten de daksporen oorspronkelijk op blokkelen, standzonen en een dubbele muurplaat. Toen voor de verhoging van de borstwering (zie 6.2.1.2) de daksporen ongeveer 60 cm werden ingekort, bleef enkel het open pengat bewaard waarin de top van de standzonen was geborgen. De sporenparen worden telkens door twee hanenbalken verbonden die met pen-en-gat verbindingen zijn vastgemaakt. Op de twee trekbalken staan makelaars waarin zowel de hanenbalken als de daksporen opnieuw met pen-en-gat verbindingen zijn geborgen (fig. 41: B).
+De telmerken in het oostelijke deel zijn aangebracht van west naar oost. Net zoals in het schip en het westelijk deel van het koor is de huidige voetraveling niet oorspronkelijk maar rustten de daksporen oorspronkelijk op blokkelen, standzonen en een dubbele muurplaat. Toen voor de verhoging van de borstwering (zie 6.2.1.2) de daksporen ongeveer 60 cm werden ingekort, bleef enkel het open pengat bewaard waarin de top van de standzonen was geborgen. De sporenparen worden telkens door twee hanenbalken verbonden die met pen-en-gat verbindingen zijn vastgemaakt. Op de twee trekbalken staan makelaars waarin zowel de hanenbalken als de daksporen opnieuw met pen-en-gat verbindingen zijn geborgen (@fig-6-35: B).
 
-:::{#fig-6-35}
-
+::: {#fig-6-35}
 ![](./figuren/image44.jpg)
 
 Langsdoorsnede van de kap boven het koor van de O.L.V.-kerk en opstanden van de verschillende dakkappen.
 :::
-
 
 De oprichting van het oostelijk deel van de kap is waarschijnlijk iets later te dateren dan het westelijk deel, vóór het einde van de 13de eeuw.
 
@@ -848,13 +775,11 @@ De daksporen steunen op standzonen en blokkelen die zelf rusten op één of twee
 
 Omwille van de verzakking van de kap werden later flieringen op schaargebinten ingebracht.
 
-
-:::{#fig-6-36}
+::: {#fig-6-36}
 ![](./figuren/image45.jpg)
 
 Dakkap van de zuidvleugel van de Hallen op de Markt.
 :::
-
 
 Het hout in de drie kappen van de hallen is van matige kwaliteit en vertoont veel verstoringen. Bijgevolg waren de opgemeten jaarringreeksen moeilijk te synchroniseren en konden slechts zes van de 18 monsters worden gebruikt voor een daterend dendrochronologisch onderzoek. De jongste gemeten jaarring in de zuidvleugel (1263d) valt samen met de aanvang van het spinthout, waardoor de veldatum van de zuidvleugel te situeren is tussen 1270 en 1300d[^sporenkappen_zonder_langsverbinding-91].
 
@@ -864,21 +789,17 @@ De dendrochronologische dateringen bevestigen het vermoeden van Janse en Devlieg
 
 [^sporenkappen_zonder_langsverbinding-92]: Janse & Devliegher 1962, 320, voetnoot 58; Devliegher 1965a, 43.
 
-
-:::{#fig-6-37}
+::: {#fig-6-37}
 ![](./figuren/image46.jpeg)
 
 De kruising van de zuid- en oostvleugel van de Hallen. (© Onroerend Erfgoed \| K. Vandevorst)
 :::
 
-
 ### Hallen, oostvleugel
-
 
 De 11,5 m brede en 54,3 m lange oostvleugel is overdekt met een ziende sporenkap van 78 sporenparen. De elf trekbalken zijn op dezelfde wijze ondersteund als in de zuidelijke vleugel. De daksporen hebben een doorsnede van 18 x 18 cm en staan hart op hart 60 tot 65 cm uiteen. Deze kap is identiek aan deze van de zuidvleugel, met uitzondering van de korbelen die onder de onderste hanenbalk zijn aangebracht. De korbelen zijn telkens koud opgenageld met een houten toognagel en twee smeedijzeren nagels. Mogelijk zijn deze korbelen een latere toevoeging.
 
-
-:::{#fig-6-38}
+::: {#fig-6-38}
 ![](./figuren/image47.jpg)
 
 Dakkap van de oostvleugel van de Hallen
@@ -890,12 +811,8 @@ Uit de kap van de oostvleugel werden vijf boorkernen genomen, waarvan er slechts
 
 [^sporenkappen_zonder_langsverbinding-93]: Eeckhout & Houbrechts 2006.
 
-
-:::{#fig-6-39}
+::: {#fig-6-39}
 ![](./figuren/image48.jpeg)
 
-De dakkap van de oostvleugel van de Hallen. (© Onroerend Erfgoed | K. Vandevorst)
+De dakkap van de oostvleugel van de Hallen. (© Onroerend Erfgoed \| K. Vandevorst)
 :::
-
-
-
