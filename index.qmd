@@ -3,7 +3,7 @@
   
 Welkom bij de online versie van **Middeleeuwse dakkappen in Brugge en ommeland. Een catalogus**. Dit onderzoeksrapport werd in 2018 gepubliceerd door het agentschap Onroerend Erfgoed en is als pdf te downloaden op de [**Open Archives Repository (OAR)**](https://id.erfgoed.net/infocat/publicaties/718).
 
-Met deze online versie willen we kleine aanpassingen aan de originele uitgave, nieuwe analyses en interpretaties - op basis van recente, wetenschappelijke ontwikkelingen - sneller ontsluiten. De basis van deze catalogis blijft de originele uitgave, maar hier kan je steeds de meest actuele versie raadplegen.
+Met deze online versie willen we kleine aanpassingen aan de originele uitgave, nieuwe analyses en interpretaties - op basis van recente, wetenschappelijke ontwikkelingen - sneller ontsluiten. De basis van deze cataloguus blijft de originele uitgave, maar hier kan je steeds de meest actuele versie raadplegen.
 
   
   
@@ -11,7 +11,7 @@ Met deze online versie willen we kleine aanpassingen aan de originele uitgave, n
 
 Gelieve te citeren als:
 
-Van Eenhooge D., Debonne V. & Haneca K. (`r Sys.Date()`). Middeleeuwse dakkappen in Brugge en ommeland. Een catalogus. Afwegingskaders agentschap Onroerend Erfgoed, Brussel. <https://github.com/hanecakr/historischeHoutconstructies/>
+Van Eenhooge D., Debonne V. & Haneca K. (`r Sys.Date()`). Middeleeuwse dakkappen in Brugge en ommeland. Een catalogus. Onderzoeksrapport agentschap Onroerend Erfgoed, Brussel. <https://hanecakr.github.io/historischeHoutconstructies/>
 
 Oorspronkelijke gepubliceerd als:
 
