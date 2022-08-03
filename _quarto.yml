@@ -10,8 +10,10 @@ book:
   author: 
     - Kristof Haneca [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-7719-8305) 
     - Vincent Debonne [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-4536-146X)
+
   description: | 
     Online catalogus van historische houtconstructies uit Vlaanderen".
+
   date: 28/06/2022
   cover-image: figuren/cover.png
   collapse-level: 1
@@ -54,8 +56,9 @@ language:
 
 format:
   html:
-    theme: journal
-    css: mycss.css
+    theme: 
+      - cosmo
+      - mycss.css
     cover-image: figuren/cover.png
     toc-depth: 4
 

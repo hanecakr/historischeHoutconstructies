@@ -139,7 +139,9 @@ In het centrale deel van de zuidelijke zijbeuk zijn 24 sporenparen bewaard geble
 In de kap zijn twee constructiefasen aanwijsbaar. Elk deel telt nu twaalf sporenparen maar vertoont duidelijke verschillen: de daksporen in het westelijk deel hebben een doorsnede van 20 x 13 cm, deze in het oostelijk deel een doorsnede van 16 x 14 cm. Elk deel heeft een eigen nummering waarbij de telmerken op de sporen steeds van oost naar west zijn aangebracht. Op de hanenbalkfliering en de makelaars echter verloopt de nummering van oost naar west in het oostelijk deel en omgekeerd in het westelijk deel. De telmerken van de daksporen aan de noordzijde zijn voorzien van een bijteken. Aan de zuidzijde is elk deel voorzien van een schuine brede windlat die volledig in de buitenkant van de daksporen is ingelaten.
 
 ::: {#fig-7-8}
-![](./figuren/image56.jpeg) Dakkap van de zuidelijke zijbeuk van de O.L.V.-kerk.
+![](./figuren/image56.jpeg)
+
+Dakkap van de zuidelijke zijbeuk van de O.L.V.-kerk.
 :::
 
 Door de overwegend snelle groei van het hout kwamen slechts drie van de tien boorkernen in aanmerking voor de berekening van een middelcurve. De vergelijking met de referentiekalenders leverde echter een uitstekend resultaat. De jongste gemeten jaarring dateert uit 1446d, waardoor de kapdatum te situeren is tussen 1454 en 1464d[^sporenkappen_met_langsverbinding-18].

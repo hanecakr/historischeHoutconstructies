@@ -1,4 +1,9 @@
-p.caption {
-  font-size: 0.6em;
+/*-- scss:rules --*/
+
+.panel-caption, .figure-caption, figcaption {
+  font-size: 0.8rem;
   font-style: italic;
+  font-weight: 400;
+  color: #8193af;
+  margin-top: 2px;
 }
